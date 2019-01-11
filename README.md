@@ -3,4 +3,11 @@
 
 ## Network Topology Diagram for QNX LAN
 
-@author Gerald.Hurdle@AlgonquinCollege.com
+## Usage
+
+1. Goto http://draw.io
+2. Click: Decide later
+3. File > Open from > Github... > hurdleg/qnx-lan > QNX-LAN.xml
+
+### Author
+Gerald.Hurdle@AlgonquinCollege.com
